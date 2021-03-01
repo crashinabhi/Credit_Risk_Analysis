@@ -4,7 +4,7 @@
 This Analysis is being done to determine best machine learning algorithm that can be use to predict the credit risk in the credit card data presented.
 
 ## Results
-- Naive Random Oversampling
+### Naive Random Oversampling
 
 ![](naive_random_oversampling.png)
 
@@ -14,7 +14,7 @@ This Analysis is being done to determine best machine learning algorithm that ca
 - Recall 	– 0 - 0.60
 	 	- 1 – 0.66
 
-- SMOTE Oversampling
+### SMOTE Oversampling
 
 ![](smote_oversampling.png)
 
@@ -24,7 +24,7 @@ This Analysis is being done to determine best machine learning algorithm that ca
 - Recall 	– 0 - 0.61
 	 	- 1 – 0.65
 
-- Cluster Centroids resampling
+### Cluster Centroids resampling
 
 ![](cluster_centroids_resampling.png)
 
@@ -34,7 +34,7 @@ This Analysis is being done to determine best machine learning algorithm that ca
 - Recall 	– 0 - 0.58
 	 	- 1 – 0.42
 
-- SMOTEENN Sampling
+### SMOTEENN Sampling
 
 ![](smoteenn_resampling.png)
 
@@ -44,7 +44,7 @@ This Analysis is being done to determine best machine learning algorithm that ca
 - Recall –  	  0 - 0.71
 	 	          1 – 0.58
 
-- Balanced Random Forest Classifier
+### Balanced Random Forest Classifier
 
 ![](balanced_randon_forest_classifier.png)
 
@@ -54,7 +54,7 @@ This Analysis is being done to determine best machine learning algorithm that ca
 - Recall –  	  0 – 0.70
 	 	          1 – 0.87
 
-- Easy Ensemble AdaBoost Classifier
+### Easy Ensemble AdaBoost Classifier
 
 ![](easy_ensemble_adaboost_classifier.png)
 
