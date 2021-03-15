@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-This Analysis is being done to determine best machine learning algorithm that can be use to predict the credit risk in the credit card data presented.
+This Analysis is being done to determine best machine learning algorithm that can be used to predict the credit risk in the credit card data presented.We Evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
 
 ## Results
 ### Naive Random Oversampling
@@ -68,4 +68,4 @@ This Analysis is being done to determine best machine learning algorithm that ca
 -	The Results all the ML algorithm are very much near in terms of balanced accuracy except for the Balanced Random forest classifier. The best-balanced accuracy predicted out of all is by easy ensemble classifier with 93% accuracy
 -	The Results of precision for all the algorithms can be seen the same for high risk =0.01 and low risk = 1.00 except for Easy ensemble which gives a precision of high risk as 9% and low risk as 100%.  Which is clearly more accurate considering 9% of the transactions being fraudulent.
 -	The Results of the recall are somewhat very close to what precision was is displaying as only easy ensemble has more accurate with 92% high risk and 94% has low risk of fraudulent transactions
--	Base on these findings its safer to say that I recommend Easy Ensemble AdaBoost Classifier since the balanced accuracy is high to rely on the precision or recall.
+-	Base on these findings its safer to say that I recommend Easy Ensemble AdaBoost Classifier since the balanced accuracy we go by this alogrithm is high and so we can rely on the precision or recall it calculated.
