@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-This Analysis is being done to determine best machine learning algorithm that can be used to predict the credit risk in the credit card data presented.We Evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
+This Analysis is being done to determine best machine learning algorithm that can be used to predict the credit risk in the credit data presented.We Evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
 
 ## Results
 ### Naive Random Oversampling
